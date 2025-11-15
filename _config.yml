@@ -1,8 +1,3 @@
-title: "PEMHA Isaac Honore - CV"
-email: "pemhaisaac@gmail.com"
-description: "CV en ligne – Cadre Senior Projets & Développement Commercial"
-baseurl: "" # pour github.io
-url: "https://pemhaisaac.github.io"
+title: "CV - PEMHA Isaac"
+description: "CV professionnel de PEMHA Isaac Honore"
 theme: minima
-plugins:
-  - jekyll-feed
